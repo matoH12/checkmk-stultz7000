@@ -1,0 +1,1 @@
+# checkmk-stultz7000
